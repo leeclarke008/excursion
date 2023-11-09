@@ -1,0 +1,25 @@
+body				{	margin: 0px auto;
+					background-color: black;
+					text align: center;
+					font-family: Verdana;
+					width: 85%
+				}
+h1				{	font-weight: normal;
+					color: white;
+					font-size: 50px;
+				}
+a				{	color: aquamarine;
+					font-size: 16px;
+				}
+h2				{	font-weight: 300;
+					font-size: 42px;
+				}
+.center			{	margin: 0px auto;
+				}
+#GreyBit			{	color: grey;
+					font-size: 21px;
+				}
+footer			{	color: grey;
+					font-family: Verdana;
+					text-align: right;
+				}
